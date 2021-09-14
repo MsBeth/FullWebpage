@@ -1,6 +1,6 @@
 <--Importing lato google font-->
 
-@import url(@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,400;1,700&display=swap'););
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,400;1,700&display=swap');
 
 body {
     font-family: 'Lato', sans-serif;
@@ -45,5 +45,7 @@ ul {
 }
 
 .dark {
+    background-color:  #2d2b3e;
+    color:  #fff;
     
 }
